@@ -1,0 +1,29 @@
+{
+     "Phone":[
+        {
+            "id":1,
+            "img": "https://www.oficinadanet.com.br/imagens/obj_item/858/moto-g30-novo.jpg",
+            "url": "https://www.magazineluiza.com.br/smartphone-motorola-moto-g30-128gb-dark-prism-4gb-ram/p/hbjfdck559/te/mg30/",
+            "title" : "Moto G30",
+            "price":"R$ 1.449,99"
+        },
+         
+         {
+            "id": 2,
+             "img":"https://http2.mlstatic.com/D_NQ_NP_927055-MLU69964898413_062023-O.webp",
+             "url":"https://www.mercadolivre.com.br/moto-g42-dual-sim-128-gb-azul-4-gb-ram/p/MLB19564582?from=gshop&matt_tool=47123466&matt_word=&matt_source=google&matt_campaign_id=14303413814&matt_ad_group_id=125984297277&matt_match_type=&matt_network=g&matt_device=c&matt_creative=539354956974&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098639&matt_product_id=MLB19564582-product&matt_product_partition_id=1840192168954&matt_target_id=aud-2009166904988:pla-1840192168954&gclid=Cj0KCQjwldKmBhCCARIsAP-0rfwEl6X4b0VatFvNrF07RCnyDaWnxW397vn8KCqfp3_d8SG1ohBEyqkaAj45EALw_wcB",
+             "title":"Moto G42",
+             "price":"R$ 989,00"
+             
+            },
+        
+            {
+                "id": 3,
+                "img":"https://m.media-amazon.com/images/I/51aNP7WdtcL._AC_UF894,1000_QL80_.jpg",
+                "url":"https://www.amazon.com.br/Smartphone-Motorola-Moto-128GB-Grafite/dp/B0BSXR9KB4",
+                "title":"Moto G52",
+                "price":"R$ 1.225,00"
+            }
+         
+        ]
+}
